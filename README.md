@@ -1,4 +1,4 @@
-# Hi there, I'm [Sambhav] 👋 
+# Hi there, I'm Sambhav 👋 
 
 🚀 **Python Developer in the Making** | *Building projects daily & leveling up fast.*
 
