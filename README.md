@@ -6,7 +6,7 @@
 
 ### 🌟 About Me
 
-- 💻 **Currently:** Blasting through **100 Days of Code** (Day 23 completed!).
+- 💻 **Currently:** Blasting through **100 Days of Code** (Day 24 completed!).
 - 🤖 **Workflow:** Leveraging **Cursor + Claude** as AI partners while building modular, clean code from scratch.
 - 🎯 **Recent Milestone:** Shifted from video tutorials to building complete Capstone projects independently!
 - 🕹️ **Projects Built So Far:** Snake Game, Pong Game, Turtle Crossing Capstone, and more.
